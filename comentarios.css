@@ -1,0 +1,55 @@
+body{
+    background-image: url(menu4.jpg);
+}
+header{display: flex;
+    position: relative;
+    width: 98%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(145, 191, 245);;
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px; 
+}
+form{display: flex;
+    position: relative;
+    
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px; }
+    textarea{
+        padding: 30px;
+        
+        color: black;
+    }
+   
+.recuadro{display: flex;
+        position: relative;
+        top: 200px;
+        
+        
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: rgb(145, 191, 245);;
+        margin: 10px;
+        padding: 10px;
+        border: 10px;
+        border-radius: 10px; }
+#boton{
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px;
+    height: 40px;
+    width: 80px;
+    background-color:darkturquoise;
+    color: cornsilk;
+}
